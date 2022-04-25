@@ -10,3 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=null-goudan&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-goudan&layout=compact">
+<img src="https://activity-graph.herokuapp.com/graph?username=null-goudan">
