@@ -7,10 +7,10 @@ You can click the Preview link to take a look at your changes.
 --->
 <h3>最近提交情况</h3>
 <a href="https://github.com/null-goudan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=null-goudan&show_icons=true&count_private=true&theme=radical&custom_title=狗蛋" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=null-goudan&show_icons=true&count_private=true&custom_title=狗蛋" />
 </a>
 <a href="https://github.com/null-goudan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-goudan&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-goudan&layout=compact&card_width=450" />
 </a>
 
 
