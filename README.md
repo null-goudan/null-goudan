@@ -9,4 +9,4 @@ null-goudan/null-goudan is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <img src="https://github-readme-stats.vercel.app/api?username=null-goudan&count_private=true">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-goudan">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=null-goudan&layout=compact">
