@@ -5,9 +5,6 @@
 null-goudan/null-goudan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h3> 最近致力于的仓库 </h3>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=null-goudan&repo=ViewSLAM_learning)]([https://github.com/null-goudan/StatisticalLearningMethod](https://github.com/null-goudan/ViewSLAM_learning))
 
 <h3>最近提交情况</h3>
 <a href="https://github.com/null-goudan">
